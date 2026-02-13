@@ -1,0 +1,27 @@
+# VS Code
+.vscode/
+*.code-workspace
+
+# Node / React
+node_modules/
+dist/
+build/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+venv/
+
+# Windows / user folders (never commit these)
+AppData/
+Desktop/
+Documents/
+Downloads/
+Pictures/
+Videos/
+
+# Binaries
+*.exe
+*.dll
